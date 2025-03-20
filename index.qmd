@@ -9,7 +9,6 @@ Load R packages.
 library(tidyverse)
 library(sf)
 library(tmap)
-library(spData)
 ```
 
 ## Read CSV
