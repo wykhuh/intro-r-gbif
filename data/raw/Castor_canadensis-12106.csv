@@ -1,0 +1,298 @@
+﻿gbifID,name,basis,catalogNumber,collectionCode,collectionID,institutionCode,decimalLatitude,decimalLongitude,coordinateUncertaintyInMeters,scientificName,year,month,day,verbatimLocality,eventDate
+2803114036,Castor canadensis,HUMAN_OBSERVATION,50723465,Observations,,iNaturalist,45.388041,-117.110464,27190,"Castor canadensis Kuhl, 1820",2020,6,23,"Oregon, US",2020-06-23T11:45:46
+2802971136,Castor canadensis,HUMAN_OBSERVATION,50723148,Observations,,iNaturalist,45.15445,-117.167985,27222,"Castor canadensis Kuhl, 1820",2020,6,23,"Oregon, US",2020-06-23T11:07:44
+2802941035,Castor canadensis,HUMAN_OBSERVATION,49373197,Observations,,iNaturalist,44.692917,-118.068224,27285,"Castor canadensis Kuhl, 1820",2020,6,12,"Baker County, US-OR, US",2020-06-12T14:36:13
+2802602152,Castor canadensis,HUMAN_OBSERVATION,49374217,Observations,,iNaturalist,44.756823,-118.144773,27285,"Castor canadensis Kuhl, 1820",2020,6,12,"Baker County, US-OR, US",2020-06-12T14:49:44
+2802536847,Castor canadensis,HUMAN_OBSERVATION,49373979,Observations,,iNaturalist,44.684358,-118.167255,27285,"Castor canadensis Kuhl, 1820",2020,6,12,"Baker County, US-OR, US",2020-06-12T14:47:25
+2802535209,Castor canadensis,HUMAN_OBSERVATION,49407456,Observations,,iNaturalist,44.074797,-123.111183,5,"Castor canadensis Kuhl, 1820",2020,6,10,"Delta Ponds City Park, Eugene, OR, US",2020-06-10T20:30:22
+2642768286,Castor canadensis,FOSSIL_SPECIMEN,38503,CFC,http://grbio.org/cool/dzi3-f1gc,UOMNH,45.1,-122.8,,"Castor canadensis Kuhl, 1820",2003,6,23,North America | United States | Oregon | Marion County,2003-06-23T00:00:00
+2641508151,Castor canadensis,HUMAN_OBSERVATION,48888175,Observations,,iNaturalist,43.793868,-123.030748,84,"Castor canadensis Kuhl, 1820",2020,5,19,"Row River Nature Park, Cottage Grove, OR, US",2020-05-19T18:44:25
+2641302724,Castor canadensis,HUMAN_OBSERVATION,48586130,Observations,,iNaturalist,45.463912,-122.613152,,"Castor canadensis Kuhl, 1820",2020,6,1,"Errol Heights Wetland, Portland, Oregon, United States",2020-06-01T11:18:17
+2634560928,Castor canadensis,HUMAN_OBSERVATION,48146283,Observations,,iNaturalist,45.347909,-122.680631,8363,"Castor canadensis Kuhl, 1820",2020,6,1,"West Linn, OR 97068, USA",2020-06-01T05:10:00
+2634530818,Castor canadensis,HUMAN_OBSERVATION,48088733,Observations,,iNaturalist,45.552226,-122.490736,55,"Castor canadensis Kuhl, 1820",2020,5,31,"Wilkes, Portland, OR 97230, USA",2020-05-31T18:14:31
+2634396038,Castor canadensis,HUMAN_OBSERVATION,47580026,Observations,,iNaturalist,45.615431,-117.131968,27126,"Castor canadensis Kuhl, 1820",2020,5,27,"Wallowa County, US-OR, US",2020-05-27T16:24:57
+2634361164,Castor canadensis,HUMAN_OBSERVATION,47062540,Observations,,iNaturalist,45.733492,-117.021275,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T13:30:19
+2634361162,Castor canadensis,HUMAN_OBSERVATION,47061794,Observations,,iNaturalist,45.715944,-117.142811,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T12:26:45
+2634355214,Castor canadensis,HUMAN_OBSERVATION,47061979,Observations,,iNaturalist,45.687717,-117.194777,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T12:33:59
+2634282616,Castor canadensis,HUMAN_OBSERVATION,47342951,Observations,,iNaturalist,45.339975,-117.410901,9,"Castor canadensis Kuhl, 1820",2020,5,25,"Wallowa County, US-OR, US",2020-05-25T09:58:50
+2634276228,Castor canadensis,HUMAN_OBSERVATION,47062658,Observations,,iNaturalist,45.621358,-117.127258,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T14:10:20
+2634243521,Castor canadensis,HUMAN_OBSERVATION,38440762,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,6,"Roseburg, OR, USA",2020-02-06T21:45:00
+2634240223,Castor canadensis,HUMAN_OBSERVATION,47062400,Observations,,iNaturalist,45.762353,-117.041655,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T12:47:53
+2634231191,Castor canadensis,HUMAN_OBSERVATION,47061601,Observations,,iNaturalist,45.606184,-117.118224,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T12:14:54
+2634154927,Castor canadensis,HUMAN_OBSERVATION,48164212,Observations,,iNaturalist,45.347909,-122.680631,8363,"Castor canadensis Kuhl, 1820",2020,5,9,"West Linn, OR 97068, USA",2020-05-09T04:52:00
+2634111893,Castor canadensis,HUMAN_OBSERVATION,48164211,Observations,,iNaturalist,45.347909,-122.680631,8363,"Castor canadensis Kuhl, 1820",2020,5,9,"West Linn, OR 97068, USA",2020-05-09T04:56:00
+2634089787,Castor canadensis,HUMAN_OBSERVATION,47427765,Observations,,iNaturalist,42.996281,-121.090281,,"Castor canadensis Kuhl, 1820",2020,5,24,"Lake County, OR, USA",2020-05-24T15:08:03
+2634035153,Castor canadensis,HUMAN_OBSERVATION,47061273,Observations,,iNaturalist,45.78755,-117.124234,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T11:59:25
+2634022226,Castor canadensis,HUMAN_OBSERVATION,47062970,Observations,,iNaturalist,45.668969,-117.199731,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T14:25:16
+2634019217,Castor canadensis,HUMAN_OBSERVATION,47062266,Observations,,iNaturalist,45.673371,-117.113759,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T12:38:21
+2634018917,Castor canadensis,HUMAN_OBSERVATION,46884580,Observations,,iNaturalist,45.019562,-117.021957,27222,"Castor canadensis Kuhl, 1820",2020,5,22,"Oregon, US",2020-05-22T09:26:14
+2634016230,Castor canadensis,HUMAN_OBSERVATION,47062863,Observations,,iNaturalist,44.946256,-121.996067,,"Castor canadensis Kuhl, 1820",2020,5,23,"Clackamas County, OR, USA",2020-05-23T14:06:15
+2633988207,Castor canadensis,HUMAN_OBSERVATION,47061442,Observations,,iNaturalist,45.777749,-117.027543,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T12:11:17
+2633979920,Castor canadensis,HUMAN_OBSERVATION,46884388,Observations,,iNaturalist,45.081862,-117.127953,27222,"Castor canadensis Kuhl, 1820",2020,5,22,"Oregon, US",2020-05-22T09:16:38
+2633975986,Castor canadensis,HUMAN_OBSERVATION,46917641,Observations,,iNaturalist,44.041858,-121.324897,5,"Castor canadensis Kuhl, 1820",2020,5,22,"Deschutes River, Bend, OR, US",2020-05-22T18:46:53
+2633964511,Castor canadensis,HUMAN_OBSERVATION,38440758,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,6,"Roseburg, OR, USA",2020-02-06T20:32:00
+2633955229,Castor canadensis,HUMAN_OBSERVATION,47062814,Observations,,iNaturalist,45.693506,-117.121112,27126,"Castor canadensis Kuhl, 1820",2020,5,23,"Wallowa County, US-OR, US",2020-05-23T14:20:59
+2626176686,Castor canadensis,HUMAN_OBSERVATION,41720016,Observations,,iNaturalist,44.747425,-118.202538,578,"Castor canadensis Kuhl, 1820",2020,4,6,"Wallowa-Whitman National Forest, Sumpter, OR, US",2020-04-06T19:05:13
+2620012661,Castor canadensis,HUMAN_OBSERVATION,45102549,Observations,,iNaturalist,45.770782,-116.748337,,"Castor canadensis Kuhl, 1820",2020,4,11,"Wallowa County, US-OR, US",2020-04-11T00:00:00
+2611393090,Castor canadensis,HUMAN_OBSERVATION,44294231,Observations,,iNaturalist,45.34573,-122.636853,22,"Castor canadensis Kuhl, 1820",2020,4,29,"West Linn, OR, US",2020-04-29T13:22:31
+2611361493,Castor canadensis,HUMAN_OBSERVATION,43357543,Observations,,iNaturalist,44.079147,-123.108168,24,"Castor canadensis Kuhl, 1820",2020,4,25,"Delta Ponds City Park, Eugene, OR, US",2020-04-25T09:09:58
+2611286605,Castor canadensis,HUMAN_OBSERVATION,44390198,Observations,,iNaturalist,45.549107,-117.84076,27158,"Castor canadensis Kuhl, 1820",2019,10,22,"Union County, US-OR, US",2019-10-22T13:38:00
+2609303653,Castor canadensis,HUMAN_OBSERVATION,42925634,Observations,,iNaturalist,45.392248,-122.819374,21,"Castor canadensis Kuhl, 1820",2020,4,2,"Bull Mountain, Tigard, OR, USA",2020-04-02T09:55:11
+2609256694,Castor canadensis,HUMAN_OBSERVATION,42926264,Observations,,iNaturalist,46.160669,-123.925764,4,"Castor canadensis Kuhl, 1820",2020,4,21,"Warrenton, OR, USA",2020-04-21T20:45:00
+2609227642,Castor canadensis,HUMAN_OBSERVATION,42925674,Observations,,iNaturalist,45.22815,-122.513162,27190,"Castor canadensis Kuhl, 1820",2020,4,22,"Oregon, US",2020-04-22T13:32:15
+2609217398,Castor canadensis,HUMAN_OBSERVATION,42638662,Observations,,iNaturalist,45.46387,-122.612616,133,"Castor canadensis Kuhl, 1820",2020,3,22,"Errol Heights City Park, Portland, OR, US",2020-03-22T07:29:05
+2603505351,Castor canadensis,HUMAN_OBSERVATION,42245160,Observations,,iNaturalist,44.0482,-123.039086,154,"Castor canadensis Kuhl, 1820",2020,4,13,"Willamette River, Springfield, OR, US",2020-04-13T11:09:13
+2603335025,Castor canadensis,HUMAN_OBSERVATION,41856627,Observations,,iNaturalist,45.506967,-117.497497,27158,"Castor canadensis Kuhl, 1820",2017,3,12,"Wallowa County, US-OR, US",2017-03-12T00:00:00
+2597860618,Castor canadensis,HUMAN_OBSERVATION,41585608,Observations,,iNaturalist,43.389827,-123.364766,8,"Castor canadensis Kuhl, 1820",2020,3,22,"Sutherlin, OR, USA",2020-03-22T13:11:00
+2597847965,Castor canadensis,HUMAN_OBSERVATION,41280369,Observations,,iNaturalist,43.269323,-123.447308,,"Castor canadensis Kuhl, 1820",2020,2,29,"Douglas, Oregon, United States",2020-02-29T12:49:00
+2597845489,Castor canadensis,HUMAN_OBSERVATION,41509304,Observations,,iNaturalist,43.22877,-123.37266,15,"Castor canadensis Kuhl, 1820",2020,3,19,"Douglas, Oregon, United States",2020-03-19T10:32:00
+2597835957,Castor canadensis,HUMAN_OBSERVATION,41280352,Observations,,iNaturalist,43.269548,-123.447157,,"Castor canadensis Kuhl, 1820",2020,2,29,"Douglas, Oregon, United States",2020-02-29T12:42:00
+2597765741,Castor canadensis,HUMAN_OBSERVATION,41644806,Observations,,iNaturalist,45.345677,-122.636576,5,"Castor canadensis Kuhl, 1820",2020,4,7,"West Linn, OR, US",2020-04-07T15:02:26
+2597738708,Castor canadensis,HUMAN_OBSERVATION,4764342,Observations,,iNaturalist,46.145273,-123.868358,,"Castor canadensis Kuhl, 1820",2016,12,12,Hwy 101A,2016-12-12T13:02:00
+2597720490,Castor canadensis,HUMAN_OBSERVATION,41527565,Observations,,iNaturalist,45.793417,-116.776985,27126,"Castor canadensis Kuhl, 1820",2020,4,4,"Wallowa County, US-OR, US",2020-04-04T10:40:10
+2597715166,Castor canadensis,HUMAN_OBSERVATION,41364722,Observations,,iNaturalist,46.012896,-123.911088,4,"Castor canadensis Kuhl, 1820",2020,3,31,"Seaside, OR 97138, USA",2020-03-31T10:17:00
+2596315778,Castor canadensis,HUMAN_OBSERVATION,40558568,Observations,,iNaturalist,44.539475,-123.284919,10,"Castor canadensis Kuhl, 1820",2020,3,22,"Marys River Natural Area, Corvallis, OR, US",2020-03-22T16:44:37
+2580261447,Castor canadensis,HUMAN_OBSERVATION,39977200,Observations,,iNaturalist,45.512012,-122.806234,4,"Castor canadensis Kuhl, 1820",2020,2,27,"Cedar Hills, OR, USA",2020-02-27T12:51:00
+2580148188,Castor canadensis,HUMAN_OBSERVATION,40250510,Observations,,iNaturalist,44.084679,-121.376064,200,"Castor canadensis Kuhl, 1820",2020,3,19,"Shevlin Park, Bend, OR, US",2020-03-19T13:00:55
+2579380284,Castor canadensis,HUMAN_OBSERVATION,39739126,Observations,,iNaturalist,45.557483,-122.853037,10,"Castor canadensis Kuhl, 1820",2020,3,8,"Stoller Creek Greenway, Portland, OR, US",2020-03-08T18:41:25
+2579367397,Castor canadensis,HUMAN_OBSERVATION,39766186,Observations,,iNaturalist,45.780322,-117.662951,27126,"Castor canadensis Kuhl, 1820",2020,3,9,"Wallowa County, US-OR, US",2020-03-09T07:37:10
+2579316448,Castor canadensis,HUMAN_OBSERVATION,39801248,Observations,,iNaturalist,44.740537,-123.05793,6,"Castor canadensis Kuhl, 1820",2020,3,1,"I-5 S, Jefferson, OR, US",2020-03-01T10:45:36
+2579312191,Castor canadensis,HUMAN_OBSERVATION,39700215,Observations,,iNaturalist,45.51424,-117.568954,27158,"Castor canadensis Kuhl, 1820",2020,3,8,"Wallowa County, US-OR, US",2020-03-08T07:37:25
+2576489076,Castor canadensis,HUMAN_OBSERVATION,39501030,Observations,,iNaturalist,45.153042,-117.031494,,"Castor canadensis Kuhl, 1820",2019,7,1,"Wallowa, Oregon, United States",2019-07-01T00:00:00
+2576488237,Castor canadensis,HUMAN_OBSERVATION,39576913,Observations,,iNaturalist,45.55737,-122.853072,4,"Castor canadensis Kuhl, 1820",2020,2,23,"Stoller Creek Greenway, Portland, OR, US",2020-02-23T15:02:01
+2576454029,Castor canadensis,HUMAN_OBSERVATION,39471028,Observations,,iNaturalist,45.682378,-117.446952,27126,"Castor canadensis Kuhl, 1820",2020,3,1,"Wallowa County, US-OR, US",2020-03-01T00:00:00
+2576412965,Castor canadensis,HUMAN_OBSERVATION,38440645,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,2,"Roseburg, OR, USA",2020-02-02T20:06:00
+2576394214,Castor canadensis,HUMAN_OBSERVATION,39252292,Observations,,iNaturalist,45.559242,-122.859512,5,"Castor canadensis Kuhl, 1820",2020,2,25,"NW Caribou Ct, Portland, OR, US",2020-02-25T15:16:21
+2576354870,Castor canadensis,HUMAN_OBSERVATION,38440632,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,1,"Roseburg, OR, USA",2020-02-01T06:18:00
+2576345839,Castor canadensis,HUMAN_OBSERVATION,38440633,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,1,"Roseburg, OR, USA",2020-02-01T07:28:00
+2576345829,Castor canadensis,HUMAN_OBSERVATION,38169644,Observations,,iNaturalist,43.268073,-123.447401,10,"Castor canadensis Kuhl, 1820",2019,12,25,"Douglas, Oregon, United States",2019-12-25T15:46:00
+2576344891,Castor canadensis,HUMAN_OBSERVATION,39549989,Observations,,iNaturalist,45.749261,-117.174988,27126,"Castor canadensis Kuhl, 1820",2019,10,24,"Wallowa County, US-OR, US",2019-10-24T00:00:00
+2576342872,Castor canadensis,HUMAN_OBSERVATION,38440638,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,2,"Roseburg, OR, USA",2020-02-02T06:44:00
+2576342855,Castor canadensis,HUMAN_OBSERVATION,38169603,Observations,,iNaturalist,43.268945,-123.445289,10,"Castor canadensis Kuhl, 1820",2019,12,25,"Douglas, Oregon, United States",2019-12-25T13:31:00
+2576312354,Castor canadensis,HUMAN_OBSERVATION,38209291,Observations,,iNaturalist,43.230114,-123.372131,8,"Castor canadensis Kuhl, 1820",2019,12,31,"Roseburg, OR, USA",2019-12-31T14:55:00
+2576310260,Castor canadensis,HUMAN_OBSERVATION,38440670,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,3,"Roseburg, OR, USA",2020-02-03T22:51:00
+2576309263,Castor canadensis,HUMAN_OBSERVATION,38209334,Observations,,iNaturalist,43.228567,-123.371431,,"Castor canadensis Kuhl, 1820",2019,12,31,"Douglas, Oregon, United States",2019-12-31T14:06:00
+2576306262,Castor canadensis,HUMAN_OBSERVATION,38440626,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,1,31,"Roseburg, OR, USA",2020-01-31T20:28:00
+2576298277,Castor canadensis,HUMAN_OBSERVATION,38440661,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,3,"Roseburg, OR, USA",2020-02-03T19:58:00
+2576294523,Castor canadensis,HUMAN_OBSERVATION,39253852,Observations,,iNaturalist,45.478295,-122.749795,5,"Castor canadensis Kuhl, 1820",2020,2,26,"Bauman Woods Natural Area, Beaverton, OR, US",2020-02-26T11:36:14
+2576286236,Castor canadensis,HUMAN_OBSERVATION,38169580,Observations,,iNaturalist,43.26853,-123.444513,10,"Castor canadensis Kuhl, 1820",2019,12,25,"Douglas, Oregon, United States",2019-12-25T13:07:00
+2576282183,Castor canadensis,HUMAN_OBSERVATION,38440671,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,4,"Roseburg, OR, USA",2020-02-04T01:43:00
+2576278149,Castor canadensis,HUMAN_OBSERVATION,38440631,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,1,"Roseburg, OR, USA",2020-02-01T02:03:00
+2576276159,Castor canadensis,HUMAN_OBSERVATION,38440663,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,3,"Roseburg, OR, USA",2020-02-03T22:00:00
+2576262201,Castor canadensis,HUMAN_OBSERVATION,38440662,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,3,"Roseburg, OR, USA",2020-02-03T21:24:00
+2576255183,Castor canadensis,HUMAN_OBSERVATION,38209326,Observations,,iNaturalist,43.229342,-123.37201,,"Castor canadensis Kuhl, 1820",2019,12,31,"Douglas, Oregon, United States",2019-12-31T13:56:00
+2576251059,Castor canadensis,HUMAN_OBSERVATION,38440658,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,3,"Roseburg, OR, USA",2020-02-03T17:44:00
+2576249067,Castor canadensis,HUMAN_OBSERVATION,38169555,Observations,,iNaturalist,43.268503,-123.444499,10,"Castor canadensis Kuhl, 1820",2019,12,25,"Douglas County, OR, USA",2019-12-25T12:57:00
+2574310480,Castor canadensis,HUMAN_OBSERVATION,38783185,Observations,,iNaturalist,44.548316,-123.302646,30,"Castor canadensis Kuhl, 1820",2020,2,16,"Corvallis, OR, USA",2020-02-16T09:06:00
+2574296553,Castor canadensis,HUMAN_OBSERVATION,38440699,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T02:47:00
+2574279535,Castor canadensis,HUMAN_OBSERVATION,38440778,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,7,"Roseburg, OR, USA",2020-02-07T00:57:00
+2574277490,Castor canadensis,HUMAN_OBSERVATION,38440738,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,6,"Roseburg, OR, USA",2020-02-06T04:56:00
+2574249532,Castor canadensis,HUMAN_OBSERVATION,38440773,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,7,"Roseburg, OR, USA",2020-02-07T00:03:00
+2574243543,Castor canadensis,HUMAN_OBSERVATION,38440772,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,6,"Roseburg, OR, USA",2020-02-06T23:49:00
+2574243278,Castor canadensis,HUMAN_OBSERVATION,38344003,Observations,,iNaturalist,42.215512,-122.717322,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Ashland Ponds, Ashland, OR, US",2020-02-05T09:35:26
+2574146554,Castor canadensis,HUMAN_OBSERVATION,38440724,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T21:08:00
+2574141607,Castor canadensis,HUMAN_OBSERVATION,38440766,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,6,"Roseburg, OR, USA",2020-02-06T23:13:00
+2574140768,Castor canadensis,HUMAN_OBSERVATION,38169524,Observations,,iNaturalist,43.268435,-123.443853,15,"Castor canadensis Kuhl, 1820",2019,12,25,"Douglas County, OR, USA",2019-12-25T12:27:00
+2574082479,Castor canadensis,HUMAN_OBSERVATION,38440718,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T19:36:00
+2574082478,Castor canadensis,HUMAN_OBSERVATION,38440673,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,4,"Roseburg, OR, USA",2020-02-04T01:49:00
+2574021397,Castor canadensis,HUMAN_OBSERVATION,38440714,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T18:59:00
+2574001475,Castor canadensis,HUMAN_OBSERVATION,38440797,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,7,"Roseburg, OR, USA",2020-02-07T06:40:00
+2573980381,Castor canadensis,HUMAN_OBSERVATION,38440745,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,6,"Roseburg, OR, USA",2020-02-06T06:31:00
+2573980054,Castor canadensis,HUMAN_OBSERVATION,38320045,Observations,,iNaturalist,43.227283,-123.373279,5,"Castor canadensis Kuhl, 1820",2020,2,3,"Roseburg, OR, USA",2020-02-03T14:06:00
+2573979422,Castor canadensis,HUMAN_OBSERVATION,38440624,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,1,31,"Roseburg, OR, USA",2020-01-31T10:45:00
+2573978956,Castor canadensis,HUMAN_OBSERVATION,38276898,Observations,,iNaturalist,45.557208,-122.852637,8,"Castor canadensis Kuhl, 1820",2020,2,2,"Bethany, Portland, OR, USA",2020-02-02T13:53:00
+2573928428,Castor canadensis,HUMAN_OBSERVATION,38440708,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T06:50:00
+2573914448,Castor canadensis,HUMAN_OBSERVATION,38440701,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T05:24:00
+2573854674,Castor canadensis,HUMAN_OBSERVATION,38169218,Observations,,iNaturalist,42.103591,-122.485301,3906,"Castor canadensis Kuhl, 1820",2019,11,2,"Jackson County, OR, USA",2019-11-02T09:18:00
+2573850458,Castor canadensis,HUMAN_OBSERVATION,38440704,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T05:57:00
+2573840454,Castor canadensis,HUMAN_OBSERVATION,38440706,Observations,,iNaturalist,43.227212,-123.373114,4,"Castor canadensis Kuhl, 1820",2020,2,5,"Roseburg, OR, USA",2020-02-05T06:06:00
+2563636190,Castor canadensis,HUMAN_OBSERVATION,38077681,Observations,,iNaturalist,43.371132,-123.259346,31,"Castor canadensis Kuhl, 1820",2019,12,21,"Douglas County, OR, USA",2019-12-21T09:29:00
+2563599992,Castor canadensis,HUMAN_OBSERVATION,37980488,Observations,,iNaturalist,44.051979,-123.064629,,"Castor canadensis Kuhl, 1820",2020,1,6,"Harlow, Eugene, OR, USA",2020-01-06T13:34:00
+2557767030,Castor canadensis,HUMAN_OBSERVATION,37509545,Observations,,iNaturalist,42.910378,-122.462425,8,"Castor canadensis Kuhl, 1820",2020,1,11,"Rogue River, Prospect, OR, US",2020-01-11T13:36:19
+2557733166,Castor canadensis,HUMAN_OBSERVATION,37215594,Observations,,iNaturalist,43.390287,-123.367929,,"Castor canadensis Kuhl, 1820",2019,10,25,"Sutherlin, OR, USA",2019-10-25T14:11:00
+2543088102,Castor canadensis,HUMAN_OBSERVATION,37186666,Observations,,iNaturalist,43.237112,-123.367646,20,"Castor canadensis Kuhl, 1820",2019,10,18,"Roseburg, OR, USA",2019-10-18T12:04:00
+2542966596,Castor canadensis,HUMAN_OBSERVATION,37198509,Observations,,iNaturalist,45.512248,-122.809352,2,"Castor canadensis Kuhl, 1820",2019,12,31,"Cedar Hills, OR, USA",2019-12-31T10:36:00
+2542945058,Castor canadensis,HUMAN_OBSERVATION,37209293,Observations,,iNaturalist,45.832886,-122.797506,,"Castor canadensis Kuhl, 1820",2020,1,1,"Columbia County, OR, USA",2020-01-01T11:38:00
+2542918777,Castor canadensis,HUMAN_OBSERVATION,37053810,Observations,,iNaturalist,45.408721,-122.751986,30,"Castor canadensis Kuhl, 1820",2019,12,28,"SW 74th Ave, Tigard, OR, US",2019-12-28T20:30:16
+2540793133,Castor canadensis,HUMAN_OBSERVATION,36925818,Observations,,iNaturalist,44.576408,-123.307608,5,"Castor canadensis Kuhl, 1820",2019,11,22,"NW Harrison Blvd, Corvallis, OR, US",2019-11-22T15:48:43
+2517950430,Castor canadensis,HUMAN_OBSERVATION,27741193,Observations,,iNaturalist,43.161984,-122.853711,10,"Castor canadensis Kuhl, 1820",2019,6,23,"Douglas, Oregon, United States",2019-06-23T17:13:00
+2465207157,Castor canadensis,HUMAN_OBSERVATION,35986606,Observations,,iNaturalist,45.542421,-122.934851,13,"Castor canadensis Kuhl, 1820",2019,11,22,"Hillsboro, OR, USA",2019-11-22T11:05:00
+2465205263,Castor canadensis,HUMAN_OBSERVATION,36061693,Observations,,iNaturalist,45.555707,-122.849208,24,"Castor canadensis Kuhl, 1820",2019,11,24,"Bethany, Portland, OR, USA",2019-11-24T13:54:00
+2465198804,Castor canadensis,HUMAN_OBSERVATION,35962094,Observations,,iNaturalist,45.500908,-122.985633,50,"Castor canadensis Kuhl, 1820",2016,11,7,"Hillsboro, OR, USA",2016-11-07T13:55:00
+2447947378,Castor canadensis,HUMAN_OBSERVATION,34933930,Observations,,iNaturalist,43.74698,-122.491193,5,"Castor canadensis Kuhl, 1820",2019,10,26,"Willamette National Forest, Oakridge, OR, US",2019-10-26T15:16:49
+2447938089,Castor canadensis,HUMAN_OBSERVATION,34892415,Observations,,iNaturalist,45.482508,-122.417708,30,"Castor canadensis Kuhl, 1820",2017,7,16,"Johnson Creek, Gresham, OR 97080, USA",2017-07-16T15:38:00
+2447938035,Castor canadensis,HUMAN_OBSERVATION,34892417,Observations,,iNaturalist,45.482769,-122.416619,10,"Castor canadensis Kuhl, 1820",2017,7,16,"Johnson Creek, Gresham, OR 97080, USA",2017-07-16T15:36:00
+2429628639,Castor canadensis,HUMAN_OBSERVATION,34516354,Observations,,iNaturalist,45.547385,-122.464883,4,"Castor canadensis Kuhl, 1820",2019,3,6,"Columbia Slough Regaional Water Quality Facility, Gresham, OR, USA",2019-03-06T10:25:00
+2429628638,Castor canadensis,HUMAN_OBSERVATION,34516351,Observations,,iNaturalist,45.547615,-122.464568,2,"Castor canadensis Kuhl, 1820",2019,3,6,"Columbia Slough Regional Water Quality Facility, Gresham, OR, USA",2019-03-06T10:37:00
+2429628244,Castor canadensis,HUMAN_OBSERVATION,34516362,Observations,,iNaturalist,45.4828,-122.416969,30,"Castor canadensis Kuhl, 1820",2018,10,22,"Johnson Creek, Gresham, OR 97080, USA",2018-10-22T14:45:00
+2429628090,Castor canadensis,HUMAN_OBSERVATION,34516374,Observations,,iNaturalist,45.516194,-122.390564,10,"Castor canadensis Kuhl, 1820",2018,7,20,"Beaver Creek, Gresham, OR, USA",2018-07-20T15:01:00
+2429627590,Castor canadensis,HUMAN_OBSERVATION,34516368,Observations,,iNaturalist,45.466339,-122.396186,5,"Castor canadensis Kuhl, 1820",2017,5,9,"North Fork Johnson Creek, OR, USA",2017-05-09T14:37:00
+2429627410,Castor canadensis,HUMAN_OBSERVATION,34516358,Observations,,iNaturalist,45.488214,-122.467414,5,"Castor canadensis Kuhl, 1820",2018,10,22,"Johnson Creek, Gresham, OR 97080, USA",2018-10-22T11:04:00
+2429627258,Castor canadensis,HUMAN_OBSERVATION,34516359,Observations,,iNaturalist,45.486589,-122.459931,5,"Castor canadensis Kuhl, 1820",2018,10,22,"Johnson Creek, Gresham, OR, USA",2018-10-22T11:42:00
+2429627108,Castor canadensis,HUMAN_OBSERVATION,34516416,Observations,,iNaturalist,45.547367,-122.464431,5,"Castor canadensis Kuhl, 1820",2018,4,5,"Columbia Slough Regional Water Quality Faciligy, Gresham, OR, USA",2018-04-05T14:01:00
+2429608385,Castor canadensis,HUMAN_OBSERVATION,34435258,Observations,,iNaturalist,42.559042,-123.589423,44,"Castor canadensis Kuhl, 1820",2019,10,13,"Rogue River, Merlin, OR, US",2019-10-13T11:02:44
+2429555641,Castor canadensis,HUMAN_OBSERVATION,34233525,Observations,,iNaturalist,42.62502,-123.597073,470,"Castor canadensis Kuhl, 1820",2019,10,11,"Merlin, OR, US",2019-10-11T16:14:40
+2429308356,Castor canadensis,HUMAN_OBSERVATION,33624358,Observations,,iNaturalist,43.411269,-122.116449,4,"Castor canadensis Kuhl, 1820",2019,9,3,"Douglas County, OR, USA",2019-09-03T11:29:00
+2423262032,Castor canadensis,HUMAN_OBSERVATION,9654253,Observations,,iNaturalist,45.47542,-122.55455,92,"Castor canadensis Kuhl, 1820",2018,1,28,Foster Floodplain natural area,2018-01-28T12:04:00
+2423217710,Castor canadensis,HUMAN_OBSERVATION,33296750,Observations,,iNaturalist,44.548651,-123.30385,30,"Castor canadensis Kuhl, 1820",2019,9,23,"Corvallis, OR, USA",2019-09-23T15:16:00
+2422923972,Castor canadensis,HUMAN_OBSERVATION,32180775,Observations,,iNaturalist,43.869518,-121.446543,,"Castor canadensis Kuhl, 1820",2018,8,20,"Deschutes, Oregon, United States",2018-08-20T10:55:00
+2422842217,Castor canadensis,HUMAN_OBSERVATION,25297950,Observations,,iNaturalist,45.526661,-122.922523,,"Castor canadensis Kuhl, 1820",2019,5,17,"5750 NE Moore Ct, Hillsboro, OR 97124, USA",2019-05-17T15:59:10
+2422826990,Castor canadensis,HUMAN_OBSERVATION,21406796,Observations,,iNaturalist,42.214487,-122.717238,10,"Castor canadensis Kuhl, 1820",2019,3,19,"345 Coventry Pl, Ashland, OR, US",2019-03-19T18:43:53
+2422820265,Castor canadensis,HUMAN_OBSERVATION,17789717,Observations,,iNaturalist,43.390837,-123.365739,10,"Castor canadensis Kuhl, 1820",2018,10,17,"Sutherlin, OR, USA",2018-10-17T16:00:00
+2397485790,Castor canadensis,HUMAN_OBSERVATION,29004916,Observations,,iNaturalist,44.511966,-124.055506,23,"Castor canadensis Kuhl, 1820",2019,7,16,Beaver Creek State Natural Area,2019-07-16T21:10:00
+2397473578,Castor canadensis,HUMAN_OBSERVATION,25927418,Observations,,iNaturalist,45.293342,-122.533512,27190,"Castor canadensis Kuhl, 1820",2019,5,27,"Oregon, US",2019-05-27T19:38:33
+2397465680,Castor canadensis,HUMAN_OBSERVATION,21371967,Observations,,iNaturalist,45.11245,-123.977495,6,"Castor canadensis Kuhl, 1820",2019,3,18,"97149, Neskowin, OR, US",2019-03-18T12:12:31
+2381403179,Castor canadensis,PRESERVED_SPECIMEN,17838,Mammals,,SDNHM,42.42,-121.23,,"Castor canadensis Kuhl, 1820",,,,USA | Oregon | Deschutes | Crooked River,
+2381402069,Castor canadensis,PRESERVED_SPECIMEN,16372,Mammals,,SDNHM,43.33,-118.76,,"Castor canadensis baileyi Nelson, 1927",,,,USA | Oregon | Harney | Malheur Lake,
+2381401181,Castor canadensis,PRESERVED_SPECIMEN,16373,Mammals,,SDNHM,44.02,-116.96,,"Castor canadensis baileyi Nelson, 1927",,,,USA | Oregon | Malheur | Ontario,
+2366071633,Castor canadensis,HUMAN_OBSERVATION,31013873,Observations,,iNaturalist,45.295762,-122.684634,30,"Castor canadensis Kuhl, 1820",2019,5,30,"Oaks Bottom Lake, Canby, OR, US",2019-05-30T06:35:31
+2350316743,Castor canadensis,HUMAN_OBSERVATION,28896036,Observations,,iNaturalist,46.202392,-123.950058,126,"Castor canadensis Kuhl, 1820",2019,7,15,Hammond Boat Basin,2019-07-15T09:33:00
+2350313197,Castor canadensis,HUMAN_OBSERVATION,27851038,Observations,,iNaturalist,45.649573,-121.920594,3599,"Castor canadensis Kuhl, 1820",2019,6,28,"Cascade Locks, OR 97014, USA",2019-06-28T11:43:09
+2311341934,Castor canadensis,HUMAN_OBSERVATION,29671798,Observations,,iNaturalist,45.43467,-123.737503,32,"Castor canadensis Kuhl, 1820",2019,7,27,"97141, Tillamook, OR, US",2019-07-27T13:54:21
+2294612516,Castor canadensis,HUMAN_OBSERVATION,29260407,Observations,,iNaturalist,45.5579,-122.362691,9,"Castor canadensis Kuhl, 1820",2019,7,21,"Wood Village, OR 97060, USA",2019-07-21T11:39:45
+2294501668,Castor canadensis,HUMAN_OBSERVATION,28836779,Observations,,iNaturalist,45.381076,-122.63275,98,"Castor canadensis Kuhl, 1820",2019,7,13,"West Linn, OR, USA",2019-07-13T20:17:00
+2283252696,Castor canadensis,HUMAN_OBSERVATION,28533631,Observations,,iNaturalist,45.511373,-122.807157,22,"Castor canadensis Kuhl, 1820",2019,7,9,"Cedar Hills, Beaverton, OR, USA",2019-07-09T15:52:00
+2283199261,Castor canadensis,HUMAN_OBSERVATION,28341916,Observations,,iNaturalist,45.6138,-122.733483,5,"Castor canadensis Kuhl, 1820",2019,7,6,"Smith and Bybee Wetlands Natural Area, Portland, OR, US",2019-07-06T17:42:02
+2283176763,Castor canadensis,HUMAN_OBSERVATION,28262629,Observations,,iNaturalist,45.544362,-122.079322,,"Castor canadensis Kuhl, 1820",2019,6,24,"Multnomah Creek Headwaters, Larch Mountain, OR, US",2019-06-24T14:11:26
+2283174339,Castor canadensis,HUMAN_OBSERVATION,28247051,Observations,,iNaturalist,45.628287,-122.755318,82,"Castor canadensis Kuhl, 1820",2018,1,31,"Smith and Bybee Wetlands Natural Area, Portland, OR, US",2018-01-31T14:27:14
+2283149412,Castor canadensis,HUMAN_OBSERVATION,28153784,Observations,,iNaturalist,44.548651,-123.30385,50,"Castor canadensis Kuhl, 1820",2019,7,2,"Corvallis, OR, USA",2019-07-02T23:20:00
+2269206568,Castor canadensis,HUMAN_OBSERVATION,19426530,Observations,,iNaturalist,45.469683,-122.735612,5,"Castor canadensis Kuhl, 1820",2019,1,4,"5726 SW Miles St, Portland, OR, US",2019-01-04T08:54:17
+2242841298,Castor canadensis,HUMAN_OBSERVATION,24564971,Observations,,iNaturalist,42.829407,-118.887993,,"Castor canadensis Kuhl, 1820",2019,5,4,"P-Lane, Frenchglen, OR 97736, USA",2019-05-04T11:26:18
+2239025635,Castor canadensis,HUMAN_OBSERVATION,24285733,Observations,,iNaturalist,45.851592,-119.695024,355,"Castor canadensis Kuhl, 1820",2019,4,1,"Boardman, OR 97818, USA",2019-04-01T10:03:00
+2238925159,Castor canadensis,HUMAN_OBSERVATION,23782329,Observations,,iNaturalist,44.02443,-122.999704,5,"Castor canadensis Kuhl, 1820",2019,4,28,"Lane County, US-OR, US",2019-04-28T11:25:28
+2237480368,Castor canadensis,HUMAN_OBSERVATION,22863267,Observations,,iNaturalist,43.390956,-123.363637,15,"Castor canadensis Kuhl, 1820",2019,4,18,"Sutherlin, OR, USA",2019-04-18T14:10:00
+2237461593,Castor canadensis,HUMAN_OBSERVATION,22792842,Observations,,iNaturalist,42.239075,-122.769208,10,"Castor canadensis Kuhl, 1820",2019,4,20,"Siskiyou Vw, Talent, OR, US",2019-04-20T19:00:35
+2235514214,Castor canadensis,HUMAN_OBSERVATION,21840676,Observations,,iNaturalist,44.735029,-123.150072,100,"Castor canadensis Kuhl, 1820",2019,3,30,"Luckiamute Landing, Polk County, OR, USA",2019-03-30T15:24:00
+2013714472,Castor canadensis,HUMAN_OBSERVATION,21099504,Observations,,iNaturalist,42.407222,-123.146174,25,"Castor canadensis Kuhl, 1820",2019,3,9,"2853 N River Rd, Gold Hill, OR 97525, USA",2019-03-09T15:46:52
+2012968566,Castor canadensis,HUMAN_OBSERVATION,20871448,Observations,,iNaturalist,45.38061,-122.633115,,"Castor canadensis Kuhl, 1820",2019,3,1,"Mary S. Young Park, West Linn, Oregon, US",2019-03-01T14:15:22
+2005322221,Castor canadensis,HUMAN_OBSERVATION,20300138,Observations,,iNaturalist,45.645006,-121.586346,5,"Castor canadensis Kuhl, 1820",2018,12,28,"2912 Dee Hwy, Hood River, OR, US",2018-12-28T16:01:09
+1990644284,Castor canadensis,HUMAN_OBSERVATION,7413098,Observations,,iNaturalist,43.219501,-123.414901,31,"Castor canadensis Kuhl, 1820",2017,8,3,"Douglas County, OR, USA",2017-08-03T17:23:00
+1990644164,Castor canadensis,HUMAN_OBSERVATION,7336289,Observations,,iNaturalist,45.967576,-123.916141,72,"Castor canadensis Kuhl, 1820",2017,8,3,Beerman Creek,2017-08-03T00:38:00
+1990548387,Castor canadensis,HUMAN_OBSERVATION,19769461,Observations,,iNaturalist,45.438939,-122.78292,15,"Castor canadensis Kuhl, 1820",2016,12,27,"Bull Mountain, Tigard, OR, USA",2016-12-27T12:46:00
+1986579685,Castor canadensis,HUMAN_OBSERVATION,19413500,Observations,,iNaturalist,44.794724,-122.779518,,"Castor canadensis Kuhl, 1820",2019,1,3,"250 N 1st St, Stayton, OR 97383, USA",2019-01-03T11:33:44
+1978853388,Castor canadensis,HUMAN_OBSERVATION,19219523,Observations,,iNaturalist,44.630341,-122.924393,,"Castor canadensis Kuhl, 1820",2018,12,25,"36893 Orsborn Way SE, Lebanon, OR 97355, USA",2018-12-25T13:14:31
+1948767465,Castor canadensis,HUMAN_OBSERVATION,18804815,Observations,,iNaturalist,46.172456,-123.657606,100,"Castor canadensis Kuhl, 1820",2018,12,2,"Svensen Island, Clatsop County, OR, USA",2018-12-02T16:21:00
+1948767439,Castor canadensis,HUMAN_OBSERVATION,18804816,Observations,,iNaturalist,46.172456,-123.657606,100,"Castor canadensis Kuhl, 1820",2018,12,2,"Svensen Island, Clatsop County, OR, USA",2018-12-02T16:06:00
+1945449045,Castor canadensis,HUMAN_OBSERVATION,18492619,Observations,,iNaturalist,45.633945,-120.910247,128,"Castor canadensis Kuhl, 1820",2018,11,17,"Deschutes River State Park, Wasco, OR, US",2018-11-17T11:38:55
+1945439869,Castor canadensis,HUMAN_OBSERVATION,18462273,Observations,,iNaturalist,45.38209,-122.74479,19,"Castor canadensis Kuhl, 1820",2018,11,17,"19217–19253 SW 65th Ave, Tualatin, OR, US",2018-11-17T13:24:20
+1933585996,Castor canadensis,HUMAN_OBSERVATION,17981023,Observations,,iNaturalist,43.393451,-123.362065,10,"Castor canadensis Kuhl, 1820",2018,10,30,"Sutherlin, OR, USA",2018-10-30T14:50:00
+1914211549,Castor canadensis,HUMAN_OBSERVATION,16802451,Observations,,iNaturalist,45.140077,-121.122223,526,"Castor canadensis Kuhl, 1820",2018,9,21,"BLM Access Rd, Maupin, OR 97037, USA",2018-09-21T07:40:15
+1899814967,Castor canadensis,HUMAN_OBSERVATION,7709626,Observations,,iNaturalist,43.226434,-123.372372,30,"Castor canadensis Kuhl, 1820",2017,8,24,"Roseburg, OR, USA",2017-08-24T19:09:00
+1899813973,Castor canadensis,HUMAN_OBSERVATION,6676885,Observations,,iNaturalist,45.490517,-123.093706,,"Castor canadensis Kuhl, 1820",2017,6,14,"Washington County, OR, USA",2017-06-14T09:44:00
+1899768196,Castor canadensis,HUMAN_OBSERVATION,15868809,Observations,,iNaturalist,45.015816,-121.920113,,"Castor canadensis Kuhl, 1820",2018,8,22,"NF-4650, Estacada, OR 97023, USA",2018-08-22T17:53:15
+1898835137,Castor canadensis,HUMAN_OBSERVATION,15797966,Observations,,iNaturalist,42.43795,-122.903763,122,"Castor canadensis Kuhl, 1820",2018,8,11,"Jackson County, OR, USA",2018-08-11T17:11:00
+1898835100,Castor canadensis,HUMAN_OBSERVATION,15797967,Observations,,iNaturalist,42.438003,-122.903965,31,"Castor canadensis Kuhl, 1820",2018,8,10,"Jackson County, OR, USA",2018-08-10T19:10:00
+1891349568,Castor canadensis,HUMAN_OBSERVATION,15516998,Observations,,iNaturalist,43.322461,-122.196799,20,"Castor canadensis Kuhl, 1820",2018,8,11,"Douglas County, OR, USA",2018-08-11T10:50:00
+1891337655,Castor canadensis,HUMAN_OBSERVATION,15440537,Observations,,iNaturalist,43.266077,-122.167304,10,"Castor canadensis Kuhl, 1820",2018,8,10,"Douglas County, OR, USA",2018-08-10T13:58:00
+1890720019,Castor canadensis,HUMAN_OBSERVATION,15252278,Observations,,iNaturalist,45.470743,-122.641798,6,"Castor canadensis Kuhl, 1820",2018,8,8,"7530 SE 22nd Ave, Portland, OR 97202, USA",2018-08-08T19:57:42
+1883972804,Castor canadensis,HUMAN_OBSERVATION,6707051,Observations,,iNaturalist,43.389463,-123.36447,9,"Castor canadensis Kuhl, 1820",2017,6,18,"1194 Fort McKay Road Oakland, OR 97462",2017-06-18T07:53:10
+1883972668,Castor canadensis,HUMAN_OBSERVATION,6353844,Observations,,iNaturalist,43.289055,-123.329134,258,"Castor canadensis Kuhl, 1820",2017,5,24,"42 River Drive Roseburg, OR 97470",2017-05-24T13:10:24
+1883972286,Castor canadensis,HUMAN_OBSERVATION,5382447,Observations,,iNaturalist,46.193633,-123.973136,15,"Castor canadensis Kuhl, 1820",2017,3,17,Ft Stevens St Pk,2017-03-17T09:33:00
+1883972211,Castor canadensis,HUMAN_OBSERVATION,5125806,Observations,,iNaturalist,45.625817,-122.761458,,"Castor canadensis Kuhl, 1820",2017,2,17,"Smith and Bybee Wetlands Natural Area, Portland, OR, US",2017-02-17T10:20:00
+1883970991,Castor canadensis,HUMAN_OBSERVATION,1911716,Observations,,iNaturalist,42.408245,-123.132632,129,"Castor canadensis Kuhl, 1820",2015,8,30,"2782 Rogue River Hwy, Gold Hill, OR, US",2015-08-30T15:15:18
+1880463554,Castor canadensis,HUMAN_OBSERVATION,12433434,Observations,,iNaturalist,43.979471,-121.451196,27411,"Castor canadensis Kuhl, 1820",2018,5,13,"Deschutes County, US-OR, US",2018-05-13T09:49:25
+1848802316,Castor canadensis,HUMAN_OBSERVATION,13085884,Observations,,iNaturalist,44.073506,-123.111707,344,"Castor canadensis Kuhl, 1820",2018,6,2,"Eugene, OR, USA",2018-06-02T20:48:03
+1847436460,Castor canadensis,HUMAN_OBSERVATION,12130438,Observations,,iNaturalist,45.116439,-123.980147,3000,"Castor canadensis Kuhl, 1820",2018,4,29,"46920 Hawk St, Neskowin, OR, US",2018-04-29T18:34:16
+1838314567,Castor canadensis,HUMAN_OBSERVATION,10872419,Observations,,iNaturalist,45.471169,-122.642119,5,"Castor canadensis Kuhl, 1820",2018,4,13,"Southeast Portland, Portland, OR, USA",2018-04-13T11:54:00
+1837770123,Castor canadensis,HUMAN_OBSERVATION,10607772,Observations,,iNaturalist,45.516114,-121.570189,20,"Castor canadensis Kuhl, 1820",2018,4,3,"Hood River County, US-OR, US",2018-04-03T18:28:31
+1837737847,Castor canadensis,HUMAN_OBSERVATION,10500634,Observations,,iNaturalist,45.602867,-122.693175,10,"Castor canadensis Kuhl, 1820",2018,3,29,"1940 N Victory Blvd, Portland, OR, US",2018-03-29T14:34:32
+1837085079,Castor canadensis,HUMAN_OBSERVATION,10466241,Observations,,iNaturalist,45.382637,-122.740662,5,"Castor canadensis Kuhl, 1820",2018,3,27,"5910 SW Nyberg Ln, Tualatin, OR, US",2018-03-27T13:38:31
+1837056701,Castor canadensis,HUMAN_OBSERVATION,10349519,Observations,,iNaturalist,45.490172,-122.747787,5,"Castor canadensis Kuhl, 1820",2018,3,21,"Raleighwood Park, Portland, OR, US",2018-03-21T15:48:53
+1837056433,Castor canadensis,HUMAN_OBSERVATION,10337092,Observations,,iNaturalist,45.556283,-122.458092,5,"Castor canadensis Kuhl, 1820",2018,3,19,"Blue Lake Regional Park, Fairview, OR, US",2018-03-19T16:18:43
+1837056153,Castor canadensis,HUMAN_OBSERVATION,10318071,Observations,,iNaturalist,45.865262,-123.162539,7,"Castor canadensis Kuhl, 1820",2018,3,19,"1511-1799 E Knott St, Vernonia, OR 97064, USA",2018-03-19T17:20:37
+1837055164,Castor canadensis,HUMAN_OBSERVATION,10215765,Observations,,iNaturalist,43.392112,-123.362357,33,"Castor canadensis Kuhl, 1820",2018,3,12,"490-598 SW Church Rd, Sutherlin, OR 97479, USA",2018-03-12T16:06:11
+1837054975,Castor canadensis,HUMAN_OBSERVATION,10175316,Observations,,iNaturalist,45.207153,-123.962662,5,"Castor canadensis Kuhl, 1820",2018,3,10,"34200 Big River Ct, Pacific City, OR, US",2018-03-10T14:29:28
+1836623542,Castor canadensis,HUMAN_OBSERVATION,10215779,Observations,,iNaturalist,43.394602,-123.363927,33,"Castor canadensis Kuhl, 1820",2018,3,12,"1901-1937 Elkton-Sutherlin Hwy, Oakland, OR 97462, USA",2018-03-12T17:24:28
+1836623511,Castor canadensis,HUMAN_OBSERVATION,10215743,Observations,,iNaturalist,43.393952,-123.362552,65,"Castor canadensis Kuhl, 1820",2018,3,12,"Elkton-Sutherlin Hwy, Oakland, OR 97462, USA",2018-03-12T15:24:42
+1836623473,Castor canadensis,HUMAN_OBSERVATION,10215769,Observations,,iNaturalist,43.390305,-123.367887,33,"Castor canadensis Kuhl, 1820",2018,3,12,"Sutherlin, OR, USA",2018-03-12T16:27:03
+1836571299,Castor canadensis,HUMAN_OBSERVATION,10072776,Observations,,iNaturalist,46.169558,-123.659826,61,"Castor canadensis Kuhl, 1820",2018,3,3,Svensen Island,2018-03-03T09:48:00
+1831222544,Castor canadensis,HUMAN_OBSERVATION,9951885,Observations,,iNaturalist,45.463512,-122.615447,,"Castor canadensis Kuhl, 1820",2018,2,21,Errol Heights Wetland,2018-02-21T14:17:01
+1831193075,Castor canadensis,HUMAN_OBSERVATION,9876470,Observations,,iNaturalist,45.47863,-122.748855,5,"Castor canadensis Kuhl, 1820",2018,2,15,"6901–7199 SW Ivy Ln, Beaverton, OR, US",2018-02-15T15:59:21
+1831184573,Castor canadensis,HUMAN_OBSERVATION,9854530,Observations,,iNaturalist,45.445995,-122.79058,5,"Castor canadensis Kuhl, 1820",2018,2,13,"Englewood Park, Tigard, OR, US",2018-02-13T14:55:09
+1831087539,Castor canadensis,HUMAN_OBSERVATION,10008190,Observations,,iNaturalist,46.097242,-123.901595,55,"Castor canadensis Kuhl, 1820",2018,2,26,"Warrenton, OR 97146, Warrenton, OR, US",2018-02-26T10:16:46
+1807326849,Castor canadensis,HUMAN_OBSERVATION,9782341,Observations,,iNaturalist,45.382214,-122.63306,183,"Castor canadensis Kuhl, 1820",2017,8,22,"Mary S Young State Park, West Linn, OR 97068, USA",2017-08-22T12:30:00
+1807311499,Castor canadensis,HUMAN_OBSERVATION,9737871,Observations,,iNaturalist,45.588484,-122.724448,20,"Castor canadensis Kuhl, 1820",2018,2,4,"9035 N Clarendon Ave, Portland, OR, US",2018-02-04T21:09:46
+1806362512,Castor canadensis,HUMAN_OBSERVATION,9622566,Observations,,iNaturalist,44.073273,-123.111842,19,"Castor canadensis Kuhl, 1820",2017,9,7,"Delta Ponds Park, Eugene, OR, US",2017-09-07T10:42:27
+1806356633,Castor canadensis,HUMAN_OBSERVATION,9607158,Observations,,iNaturalist,45.429528,-122.581692,21,"Castor canadensis Kuhl, 1820",2018,1,24,"7200 SE Harmony Rd, Portland, OR, US",2018-01-24T15:46:00
+1802737068,Castor canadensis,HUMAN_OBSERVATION,9276994,Observations,,iNaturalist,45.434217,-122.801812,5,"Castor canadensis Kuhl, 1820",2017,12,27,"SW Katherine St, Tigard, OR, US",2017-12-27T14:21:41
+1802722386,Castor canadensis,HUMAN_OBSERVATION,9241934,Observations,,iNaturalist,45.432797,-122.791083,5,"Castor canadensis Kuhl, 1820",2017,12,23,"11095 SW Walnut St, Tigard, OR, US",2017-12-23T08:36:34
+1802712795,Castor canadensis,HUMAN_OBSERVATION,9217728,Observations,,iNaturalist,45.432713,-122.788642,5,"Castor canadensis Kuhl, 1820",2017,12,20,"Thomas R. Fowler Middle School, Tigard, OR, US",2017-12-20T08:22:40
+1802692666,Castor canadensis,HUMAN_OBSERVATION,9156549,Observations,,iNaturalist,44.066477,-121.311913,300,"Castor canadensis Kuhl, 1820",2017,12,13,"River West, Bend, OR, USA",2017-12-13T10:50:00
+1703196631,Castor canadensis,HUMAN_OBSERVATION,8901383,Observations,,iNaturalist,45.55403,-122.377655,5,"Castor canadensis Kuhl, 1820",2017,11,22,"Thousand Acres Rd, Troutdale, OR, US",2017-11-22T14:24:55
+1703168093,Castor canadensis,HUMAN_OBSERVATION,8821158,Observations,,iNaturalist,43.227448,-123.370916,33,"Castor canadensis Kuhl, 1820",2017,11,15,"Duck Pond St, Roseburg, OR 97471, USA",2017-11-15T09:47:54
+1702674508,Castor canadensis,PRESERVED_SPECIMEN,UWBM:Mamm:35482,Mammal specimens,128,UWBM,43.24648303,-118.5774642,14,"Castor canadensis Kuhl, 1820",1987,4,15,"USA | Oregon | Harney | Princeton; Malheur NWR, CPR near Krumbo cutoff",1987-04-15T00:00:00
+1702667692,Castor canadensis,PRESERVED_SPECIMEN,UWBM:Mamm:20146,Mammal specimens,128,UWBM,44.93124713,-120.8846509,2290,"Castor canadensis Kuhl, 1820",1959,10,24,"USA | Oregon | Wasco | Shaniko; 5 mi S, 6.5 mi W",1959-10-24T00:00:00
+1702667657,Castor canadensis,PRESERVED_SPECIMEN,UWBM:Mamm:20148,Mammal specimens,128,UWBM,45.17973342,-122.1672877,13,"Castor canadensis Kuhl, 1820",1800,,,USA | Oregon | Clackamas | Clackamas River; Big Eddy,1800-01-01T00:00:00
+1702667656,Castor canadensis,PRESERVED_SPECIMEN,UWBM:Mamm:20149,Mammal specimens,128,UWBM,44.96744759,-120.8029495,2290,"Castor canadensis Kuhl, 1820",1958,8,3,"USA | Oregon | Wasco | Shaniko; 2.5 mi S, 2.5 mi W",1958-08-03T00:00:00
+1668820908,Castor canadensis,HUMAN_OBSERVATION,7958273,Observations,,iNaturalist,43.129379,-122.160416,70,"Castor canadensis Kuhl, 1820",2017,9,11,"Douglas County, OR, USA",2017-09-11T17:54:00
+1640044419,Castor canadensis,HUMAN_OBSERVATION,7383944,Observations,,iNaturalist,45.970633,-123.912128,94,"Castor canadensis Kuhl, 1820",2017,8,4,Shangrila Creek,2017-08-04T02:00:00
+1586950332,Castor canadensis,HUMAN_OBSERVATION,7521998,Observations,,iNaturalist,45.633725,-122.761208,,"Castor canadensis Kuhl, 1820",2017,8,16,"97203, Portland, OR, US",2017-08-16T10:25:22
+1586156475,Castor canadensis,HUMAN_OBSERVATION,7431063,Observations,,iNaturalist,43.31075,-122.11661,100,"Castor canadensis Kuhl, 1820",2017,8,5,"Douglas County, OR, USA",2017-08-05T13:06:00
+1584407577,Castor canadensis,HUMAN_OBSERVATION,7140511,Observations,,iNaturalist,42.804192,-123.630239,24,"Castor canadensis Kuhl, 1820",2017,7,15,"Douglas County, OR, USA",2017-07-15T16:35:00
+1584403664,Castor canadensis,HUMAN_OBSERVATION,6787942,Observations,,iNaturalist,43.218078,-123.352389,33,"Castor canadensis Kuhl, 1820",2017,6,24,"202 West Bowden Street Roseburg, OR 97470",2017-06-24T16:50:49
+1571155785,Castor canadensis,HUMAN_OBSERVATION,6714355,Observations,,iNaturalist,43.389644,-123.364494,33,"Castor canadensis Kuhl, 1820",2017,6,18,"1194 Fort McKay Road Oakland, OR 97462",2017-06-18T07:55:09
+1571084479,Castor canadensis,HUMAN_OBSERVATION,6476894,Observations,,iNaturalist,46.10805,-123.931237,,"Castor canadensis Kuhl, 1820",2017,6,2,"97146, Warrenton, OR, US",2017-06-02T19:15:57
+1563424236,Castor canadensis,HUMAN_OBSERVATION,6375556,Observations,,iNaturalist,45.511803,-122.675674,,"Castor canadensis Kuhl, 1820",2017,5,26,"Southwest Naito Parkway Portland, OR 97201",2017-05-26T19:14:37
+1562983286,Castor canadensis,HUMAN_OBSERVATION,6362185,Observations,,iNaturalist,46.053463,-123.908847,153,"Castor canadensis Kuhl, 1820",2017,5,25,Gearhart,2017-05-25T13:20:00
+1562983231,Castor canadensis,HUMAN_OBSERVATION,6362188,Observations,,iNaturalist,46.012651,-123.86994,449,"Castor canadensis Kuhl, 1820",2017,5,25,Crown Camp,2017-05-25T11:30:00
+1562977491,Castor canadensis,HUMAN_OBSERVATION,6341752,Observations,,iNaturalist,42.830268,-118.888893,344,"Castor canadensis Kuhl, 1820",2017,5,17,Near P Ranch,2017-05-17T06:00:00
+1455582685,Castor canadensis,HUMAN_OBSERVATION,5473528,Observations,,iNaturalist,45.481957,-122.632018,19,"Castor canadensis Kuhl, 1820",2017,3,25,"Reed College, Portland, OR, US",2017-03-25T10:16:59
+1455578957,Castor canadensis,HUMAN_OBSERVATION,5463254,Observations,,iNaturalist,44.301576,-122.141018,61,"Castor canadensis Kuhl, 1820",2007,6,8,"Linn County, OR, USA",2007-06-08T13:36:00
+1453501267,Castor canadensis,HUMAN_OBSERVATION,5288059,Observations,,iNaturalist,43.226757,-123.372207,225,"Castor canadensis Kuhl, 1820",2011,12,17,"Roseburg, OR, USA",2011-12-17T09:48:00
+1453493619,Castor canadensis,HUMAN_OBSERVATION,5262157,Observations,,iNaturalist,45.491377,-122.669808,201,"Castor canadensis Kuhl, 1820",2015,12,18,"Southwest Portland, Portland, OR, USA",2015-12-18T08:33:00
+1453183709,Castor canadensis,HUMAN_OBSERVATION,4467617,Observations,,iNaturalist,45.373791,-122.594934,67,"Castor canadensis Kuhl, 1820",2015,11,26,"Clackamette Cove, Oregon City, OR, USA",2015-11-26T17:00:00
+1453059528,Castor canadensis,HUMAN_OBSERVATION,1682070,Observations,,iNaturalist,45.438575,-122.808572,,"Castor canadensis Kuhl, 1820",2015,6,23,"12820 SW Glacier Lily Cir, Tigard, OR, US",2015-06-23T18:01:35
+1315086763,Castor canadensis,HUMAN_OBSERVATION,4179133,Observations,,iNaturalist,42.920792,-122.108075,9400,"Castor canadensis Kuhl, 1820",2010,7,24,"Crater Lake National Park, OR, USA",2010-07-24T13:24:00
+1306578983,Castor canadensis,HUMAN_OBSERVATION,4021412,Observations,,iNaturalist,44.213053,-124.009859,5,"Castor canadensis Kuhl, 1820",2016,9,2,"Lane County, US-OR, US",2016-09-02T15:11:43
+1305938048,Castor canadensis,FOSSIL_SPECIMEN,38503,CFC,http://grbio.org/cool/dzi3-f1gc,UOMNH,45.1,-122.8,5566,"Castor canadensis Kuhl, 1820",,,,,
+1305116408,Castor canadensis,HUMAN_OBSERVATION,2520750,Observations,,iNaturalist,43.226805,-123.371852,236,"Castor canadensis Kuhl, 1820",2015,12,26,"Park Lake, Roseburg, OR",2015-12-26T13:13:24
+1305110609,Castor canadensis,HUMAN_OBSERVATION,1150842,Observations,,iNaturalist,43.121614,-123.396111,1302,"Castor canadensis Kuhl, 1820",2014,12,25,"Winston Section Road, Winston, OR",2014-12-25T13:49:06
+1291083024,Castor canadensis,HUMAN_OBSERVATION,349328,Observations,,iNaturalist,45.500562,-122.299378,5,"Castor canadensis Kuhl, 1820",2013,7,28,"Oxbow Park, Corbett, Oregon, US",2013-07-28T11:45:55
+1272101631,Castor canadensis,HUMAN_OBSERVATION,3422773,Observations,,iNaturalist,46.17271,-123.941093,45,"Castor canadensis Kuhl, 1820",2016,6,9,Clear Lake (NCLC),2016-06-09T09:06:55
+1233595820,Castor canadensis,HUMAN_OBSERVATION,2602336,Observations,,iNaturalist,42.91085,-122.461692,,"Castor canadensis Kuhl, 1820",2016,1,18,"Jackson County, US-OR, US",2016-01-18T11:53:12
+1227774906,Castor canadensis,HUMAN_OBSERVATION,515375,Observations,,iNaturalist,42.27476,-123.636994,,"Castor canadensis Kuhl, 1820",2013,9,14,"selma, oregon",2013-09-14T00:00:00
+1227768742,Castor canadensis,HUMAN_OBSERVATION,2543004,Observations,,iNaturalist,46.094272,-123.934163,46,"Castor canadensis Kuhl, 1820",2012,4,7,"Yeon Property, Lewis & Clark NHP",2012-04-07T21:50:52
+1145887105,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90740,Mammal specimens,28,MVZ,43.28118526,-118.2661569,3233,"Castor canadensis baileyi Nelson, 1927",1938,1,1,"Deadman Creek, near ___ of South Fork Malheur River",1938-01-01T00:00:00
+1145887104,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90735,Mammal specimens,28,MVZ,44.43996503,-119.3237027,16911,"Castor canadensis Kuhl, 1820",1939,2,1,"Bragga Ranch, on John Day River, between Mt. Vernon and Dayville",1939-02-01T00:00:00
+1145887099,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90739,Mammal specimens,28,MVZ,42.26157883,-120.4621958,24155,Castor canadensis shastensis,1931,1,1,Thomas Creek,1931-01-01T00:00:00
+1145887094,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90737,Mammal specimens,28,MVZ,44.77477504,-117.8340698,2427,"Castor canadensis taylori Davis, 1939",1939,1,1,"Baker, vicinity of Powder River",1939-01-01T00:00:00
+1145887093,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90742,Mammal specimens,28,MVZ,43.971201,-120.610828,385965,"Castor canadensis baileyi Nelson, 1927",1938,1,1,no specific locality recorded,1938-01-01T00:00:00
+1145887076,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90731,Mammal specimens,28,MVZ,45.53216799,-118.036388,3312,"Castor canadensis Kuhl, 1820",1939,1,1,"Dry Creek, N end Grande Ronde Valley",1939-01-01T00:00:00
+1145887067,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90734,Mammal specimens,28,MVZ,44.91335098,-120.4730402,350,"Castor canadensis Kuhl, 1820",1939,2,3,Clarno,1939-02-03T00:00:00
+1145887060,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:90733,Mammal specimens,28,MVZ,45.45775283,-119.8244333,5264,"Castor canadensis Kuhl, 1820",1939,2,11,"Willow Creek, 3 mi S Ione",1939-02-11T00:00:00
+1145884038,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:88013,Mammal specimens,28,MVZ,45.65341399,-123.8475386,5163,"Castor canadensis idoneus Jewett & Hall, 1940",1914,12,15,"Foley Creek, above Nehalem",1914-12-15T00:00:00
+1145862614,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:68744,Mammal specimens,28,MVZ,42.47857537,-120.5404011,1152,Castor canadensis shastensis,1935,9,9,"Auger Creek, Sec 1, T36S, R18E",1935-09-09T00:00:00
+1145682594,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:115443,Mammal specimens,28,MVZ,42.66516028,-121.9923395,9671,Castor canadensis shastensis,1945,2,26,Wood River,1945-02-26T00:00:00
+1145682575,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:115442,Mammal specimens,28,MVZ,42.64026175,-121.8617359,14,Castor canadensis shastensis,1945,2,16,"Williamson River, 6 mi above Chiloquin",1945-02-16T00:00:00
+1145682567,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:115441,Mammal specimens,28,MVZ,42.45536726,-121.5039243,819,Castor canadensis shastensis,1945,3,15,Sprague River,1945-03-15T00:00:00
+1145682534,Castor canadensis,PRESERVED_SPECIMEN,MVZ:Mamm:115440,Mammal specimens,28,MVZ,42.45536726,-121.5039243,819,Castor canadensis shastensis,1945,3,6,Sprague River,1945-03-06T00:00:00
+1143531801,Castor canadensis,HUMAN_OBSERVATION,1916720,Observations,,iNaturalist,45.438647,-122.809487,,"Castor canadensis Kuhl, 1820",2015,9,3,"Washington County, US-OR, US",2015-09-03T19:17:45
+1135208976,Castor canadensis,HUMAN_OBSERVATION,1838956,Observations,,iNaturalist,45.558065,-122.362642,20,"Castor canadensis Kuhl, 1820",2015,8,6,"Multnomah County, US-OR, US",2015-08-06T15:52:14
+1099966010,Castor canadensis,HUMAN_OBSERVATION,1706084,Observations,,iNaturalist,45.43858,-122.808662,,"Castor canadensis Kuhl, 1820",2015,6,28,"12820 SW Glacier Lily Cir, Tigard, OR, US",2015-06-28T08:57:06
+1098896828,Castor canadensis,HUMAN_OBSERVATION,1503610,Observations,,iNaturalist,45.437958,-122.806672,,"Castor canadensis Kuhl, 1820",2015,5,17,"Washington County, US-OR, US",2015-05-17T15:59:48
+1065406504,Castor canadensis,PRESERVED_SPECIMEN,30832,Mammals,http://biocol.org/urn:lsid:biocol:org:34897,LACM,45.93256258,-118.3875043,2427,"Castor canadensis Kuhl, 1820",1933,5,,United States | Oregon | Umatilla Co | Walla Walla R. Valley; Free Water,1933-05-01T00:00:00
+1039527273,Castor canadensis,PRESERVED_SPECIMEN,YPM MAM 006603,VZ,,YPM,44.80134,-119.964823,130025,"Castor canadensis Kuhl, 1820",1871,,,,1871-01-01T00:00:00
+1039523137,Castor canadensis,PRESERVED_SPECIMEN,YPM MAM 011916,VZ,,YPM,43.864416,-122.96286,103733,"Castor canadensis Kuhl, 1820",,,,,
+891772099,Castor canadensis,HUMAN_OBSERVATION,476850,Observations,,iNaturalist,45.645809,-122.763054,726,"Castor canadensis Kuhl, 1820",2013,12,5,"Kelley Point Park, Multnomah Co., Oregon",2013-12-05T00:00:00
+891769725,Castor canadensis,HUMAN_OBSERVATION,471589,Observations,,iNaturalist,45.778826,-122.774277,2970,"Castor canadensis Kuhl, 1820",2013,11,27,"Sauvie Island, OR",2013-11-27T00:00:00
+891712948,Castor canadensis,HUMAN_OBSERVATION,330110,Observations,,iNaturalist,45.112735,-121.527987,5,"Castor canadensis Kuhl, 1820",2013,7,6,"Wasco County, US-OR, US",2013-07-06T10:30:32
+812665002,Castor canadensis,PRESERVED_SPECIMEN,Mammal-28447,Mammal,,PSM,45.26596561,-118.517096,298,"Castor canadensis Kuhl, 1820",1980,4,23,"USA | Oregon | Union | Starkey Experimental Forest; T3S, R34E, S35, NE 1/4, NW 1/4",1980-04-23T00:00:00
+812651409,Castor canadensis,PRESERVED_SPECIMEN,Mammal-14884,Mammal,,PSM,43.11893256,-124.4081048,4037,"Castor canadensis Kuhl, 1820",1970,12,1,"USA | Oregon | Coos | Bandon, by Coquille River",1970-12-01T00:00:00
+812651408,Castor canadensis,PRESERVED_SPECIMEN,Mammal-14883,Mammal,,PSM,43.09303267,-124.4297049,582,"Castor canadensis Kuhl, 1820",1971,5,11,"USA | Oregon | Coos | Bandon, 2 mi S; T29S, R15W, S1, NW .25",1971-05-11T00:00:00
+812651265,Castor canadensis,PRESERVED_SPECIMEN,Mammal-14267,Mammal,,PSM,43.09303267,-124.4297049,582,"Castor canadensis Kuhl, 1820",1971,5,13,"USA | Oregon | Coos | Bandon, 2 mi S; T29S, R15W, S1, NW .25",1971-05-13T00:00:00
+812651264,Castor canadensis,PRESERVED_SPECIMEN,Mammal-14266,Mammal,,PSM,43.11573283,-124.3837042,582,"Castor canadensis Kuhl, 1820",1970,10,22,"USA | Oregon | Coos | Bandon, 1.75 mi E; T28S, R14W, S29, SE .25",1970-10-22T00:00:00
+812651263,Castor canadensis,PRESERVED_SPECIMEN,Mammal-14265,Mammal,,PSM,43.11573283,-124.3837042,582,"Castor canadensis Kuhl, 1820",1970,9,19,"USA | Oregon | Coos | Bandon, 1.75 mi E; T28S, R14W, S29, SE .25",1970-09-19T00:00:00
+812651243,Castor canadensis,PRESERVED_SPECIMEN,Mammal-14270,Mammal,,PSM,43.02143643,-124.1217964,582,"Castor canadensis Kuhl, 1820",1971,7,20,"USA | Oregon | Coos | Broadbent, 1 mi NE; T29S, R12W, S28, SE .25",1971-07-20T00:00:00
+812642236,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05207,Mammal,,PSM,42.25397606,-120.7952038,497,"Castor canadensis Kuhl, 1820",,,,USA | Oregon | Lake | Fishhole Mountain,
+812642191,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05198,Mammal,,PSM,45.52332614,-122.675907,16103,"Castor canadensis Kuhl, 1820",1953,4,1,USA | Oregon | Multnomah | Portland,1953-04-01T00:00:00
+812642190,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05197,Mammal,,PSM,44.40144138,-122.0075696,1623,"Castor canadensis Kuhl, 1820",1952,7,13,USA | Oregon | Linn | Fish Lake,1952-07-13T00:00:00
+812642187,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05194,Mammal,,PSM,45.72001409,-123.7903385,7866,"Castor canadensis Kuhl, 1820",1948,12,25,"USA | Oregon | Tillamook | Nehalem, 5 mi E",1948-12-25T00:00:00
+812642107,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05193,Mammal,,PSM,45.72001409,-123.7903385,7866,"Castor canadensis Kuhl, 1820",1948,12,23,"USA | Oregon | Tillamook | Nehalem, 5 mi E",1948-12-23T00:00:00
+812642106,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05192,Mammal,,PSM,45.23031693,-123.8631307,13,"Castor canadensis Kuhl, 1820",1950,2,11,USA | Oregon | Tillamook | Hebo,1950-02-11T00:00:00
+812641493,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05211,Mammal,,PSM,42.25397606,-120.7952038,497,"Castor canadensis Kuhl, 1820",1952,12,6,USA | Oregon | Lake | Fishhole Mountain,1952-12-06T00:00:00
+812641490,Castor canadensis,PRESERVED_SPECIMEN,Mammal-05208,Mammal,,PSM,42.25397606,-120.7952038,497,"Castor canadensis Kuhl, 1820",1952,11,19,USA | Oregon | Lake | Fishhole Mountain,1952-11-19T00:00:00
+812639410,Castor canadensis,PRESERVED_SPECIMEN,Mammal-03000,Mammal,,PSM,42.58017183,-120.8017091,64374,"Castor canadensis Kuhl, 1820",1951,3,17,USA | Oregon | Lake | Fremont National Forest,1951-03-17T00:00:00
+812638935,Castor canadensis,PRESERVED_SPECIMEN,Mammal-02052,Mammal,,PSM,44.56442823,-123.2617034,5163,"Castor canadensis Kuhl, 1820",1944,11,6,USA | Oregon | Benton | Corvallis,1944-11-06T00:00:00
+812638889,Castor canadensis,PRESERVED_SPECIMEN,Mammal-02810,Mammal,,PSM,42.0222556,-123.4591639,95,"Castor canadensis Kuhl, 1820",1950,8,,USA | Oregon | Josephine | Bolan Lake,1950-08-01T00:00:00
+686381596,Castor canadensis,PRESERVED_SPECIMEN,52357,KUM,,KU,46.10581363,-123.5859411,,"Castor canadensis idoneus Jewett & Hall, 1940",1952,7,1,,1952-07-01T00:00:00
+177117912,Castor canadensis,PRESERVED_SPECIMEN,17854,Mammals,,UCLA,45.25,-123.75,,"Castor canadensis leucodontus Gray, 1869",,,,NA | USA | OR | TILLAMOOK CO. | BLAINE,

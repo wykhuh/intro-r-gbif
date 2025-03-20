@@ -1,0 +1,150 @@
+---
+title: "R Intro"
+---
+
+Load R packages.
+
+```{r}
+#| message: false
+library(tidyverse)
+library(sf)
+library(tmap)
+library(spData)
+```
+
+## Read CSV
+
+Read GBIF CSV.
+
+```{r}
+#| message: false
+beaver_df <- read_csv('data/raw/Castor_canadensis-12106.csv')
+```
+
+Preview GBIF data.
+
+```{r}
+glimpse(beaver_df)
+```
+
+Update GBIF data so that it can plotted on a map. `st_as_sf()` will create a vector point for each record using decimalLongitude and decimalLatitude, add a geometry column, and set the coordinate reference system.
+
+```{r}
+beaver_sf <- st_as_sf(beaver_df, 
+                      coords = c('decimalLongitude', 'decimalLatitude'), 
+                      crs=4326, 
+                      remove=FALSE)
+```
+
+## Read GeoJSON
+
+Read a GeoJSON file that has the boundaries for Oregon state.
+
+```{r}
+oregon_sf <- read_sf('data/cleaned/oregon.geojson')
+```
+
+Check if GBIF data and Oregon boundary have same CRS.
+
+```{r}
+st_crs(oregon_sf) == st_crs(beaver_sf)
+```
+Update CRS for Oregon boundaries.
+
+```{r}
+oregon_sf <- st_transform(oregon_sf, crs=st_crs(beaver_sf))
+st_crs(oregon_sf) == st_crs(beaver_sf)
+```
+
+
+## Interactive maps
+
+Create interactive map.
+
+```{r}
+tmap_mode("view")
+```
+
+Create map with GBIF data and Oregon boundary. Color code each GBIF occurrence record using the basis field. Use Open Street Maps as basemap.
+
+```{r}
+tm_shape(oregon_sf) +
+  tm_lines() +
+  tm_shape(beaver_sf) +
+  tm_symbols(fill='basis') +
+  tm_basemap("OpenStreetMap")
+```
+
+## Static maps
+
+Create static map.
+
+```{r}
+tmap_mode("plot")
+```
+Create map with GBIF data and Oregon boundary. Color code each GBIF occurrence record using the basis field. Use Open Street Maps as basemap.
+
+```{r}
+tm_shape(oregon_sf) +
+  tm_lines() +
+  tm_shape(beaver_sf) +
+  tm_symbols(fill='basis') +
+  tm_basemap("OpenStreetMap")
+  
+```
+
+Update map appearance. Add a north arrow, scale bar, and a title.
+
+```{r}
+map <- tm_shape(oregon_sf) +
+  tm_lines() +
+  tm_shape(beaver_sf) +
+  tm_symbols(fill='basis') +
+  tm_basemap("OpenStreetMap")  +
+  tm_compass(position = c("left", "bottom")) +
+  tm_scalebar(position = c("left", "bottom")) +
+  tm_title("Beaver occurrence in Oregon")  +
+  tm_layout(inner.margins = c(0.1,.1),
+            legend.position=c("right", "bottom"),
+            legend.bg.color = 'white')
+
+map
+```
+
+Save map as png image.
+
+```{r}
+#| eval: false
+tmap_save(map, filename = "output/beaver_oregon.png", width = 7, height = 7)
+
+```
+
+## Bar charts
+
+Create bar chart. Use basis values for the x axis.
+
+```{r}
+ggplot(beaver_df) +
+  geom_bar(mapping=aes(x=basis))
+```
+
+Update chart appearance. Add color to the bars, a title, and custom theme.
+
+```{r}
+chart <- ggplot(beaver_df) +
+  geom_bar(mapping=aes(x=basis), fill='75cd5e')  + 
+  labs(title = 'Beaver occurrence in Oregon')  +
+  theme_bw() +
+  theme(title = element_text(size = 14), 
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank())
+  
+chart
+```
+
+Save chart as png image.
+
+```{r}
+#| eval: false
+ggsave('output/chart.png', chart, width = 5, height=5)
+```
